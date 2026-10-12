@@ -1,0 +1,110 @@
+{
+  "fuente": "Porkcolombia–FNP",
+  "unidad": "COP/kg",
+  "fechaISO": "2026-10-09",
+  "numeroBoletin": 21,
+  "fuenteUrl": "https://porkcolombia.co/wp-content/uploads/2026/10/Quincena21de2026.pdf",
+  "evidenciaSha256": "9f08b06b9bc399c6aa020e3a5826a538485d463bc2e0c162b763b63e3ce079cf",
+  "referenciasNacionales": {
+    "cerdoEnPie": 6376,
+    "canalCaliente": 8873,
+    "canalFria": 9332
+  },
+  "anterioresNacionales": {
+    "cerdoEnPie": 6444,
+    "canalCaliente": 8877,
+    "canalFria": 9541
+  },
+  "regiones": [
+    {
+      "mercado": "Antioquia",
+      "cerdoEnPie": 6063,
+      "anteriores": {
+        "cerdoEnPie": 6078,
+        "canalCaliente": null,
+        "canalFria": null
+      },
+      "canalCaliente": null,
+      "canalFria": 8822
+    },
+    {
+      "mercado": "Eje Cafetero",
+      "cerdoEnPie": null,
+      "anteriores": {
+        "cerdoEnPie": null,
+        "canalCaliente": null,
+        "canalFria": 9134
+      },
+      "canalCaliente": null,
+      "canalFria": 8968
+    },
+    {
+      "mercado": "Valle del Cauca",
+      "cerdoEnPie": 6297,
+      "anteriores": {
+        "cerdoEnPie": 6148,
+        "canalCaliente": 8639,
+        "canalFria": 9006
+      },
+      "canalCaliente": 8776,
+      "canalFria": 9002
+    },
+    {
+      "mercado": "Caribe Norte",
+      "cerdoEnPie": 6550,
+      "anteriores": {
+        "cerdoEnPie": 6826,
+        "canalCaliente": 8893,
+        "canalFria": null
+      },
+      "canalCaliente": 8892,
+      "canalFria": 9691
+    },
+    {
+      "mercado": "Bogotá",
+      "cerdoEnPie": 6645,
+      "anteriores": {
+        "cerdoEnPie": 6671,
+        "canalCaliente": null,
+        "canalFria": 10822
+      },
+      "canalCaliente": null,
+      "canalFria": 10390
+    },
+    {
+      "mercado": "Tolima - Huila",
+      "cerdoEnPie": 6730,
+      "anteriores": {
+        "cerdoEnPie": null,
+        "canalCaliente": null,
+        "canalFria": null
+      },
+      "canalCaliente": null,
+      "canalFria": 8911
+    }
+  ],
+  "cobertura": {
+    "cerdoEnPie": 5,
+    "canalCaliente": 2,
+    "canalFria": 6
+  },
+  "variacionesCalculadas": {
+    "cerdoEnPie": {
+      "COPkg": -68,
+      "porcentaje": -1.0552
+    },
+    "canalCaliente": {
+      "COPkg": -4,
+      "porcentaje": -0.0451
+    },
+    "canalFria": {
+      "COPkg": -209,
+      "porcentaje": -2.1905
+    }
+  },
+  "advertencias": [
+    "Las variaciones nacionales no implican una muestra regional constante.",
+    "Porcentajes calculados desde precios; revisar discrepancias de redondeo en el PDF.",
+    "No incluye Central Ganadera ni SIPSA en los consolidados."
+  ]
+}
