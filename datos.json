@@ -1,105 +1,105 @@
 {
   "fuente": "Porkcolombia–FNP",
   "unidad": "COP/kg",
-  "fechaISO": "2026-10-23",
-  "numeroBoletin": 22,
-  "fuenteUrl": "https://porkcolombia.co/wp-content/uploads/2026/10/Quincena22de2026.pdf",
-  "evidenciaSha256": "6d9afb02b6212497daafe5bb6163669b1695e2e7da0e77b63713fb69eb912a7b",
+  "fechaISO": "2026-11-06",
+  "numeroBoletin": 23,
+  "fuenteUrl": "https://porkcolombia.co/wp-content/uploads/2026/11/Quincena23de2026.pdf",
+  "evidenciaSha256": "c17bcab09f3216dd15c682370dcc008cf2a7a4462c98b9db4be36cd7363b5b18",
   "referenciasNacionales": {
+    "cerdoEnPie": 6398,
+    "canalCaliente": 8869,
+    "canalFria": 9344
+  },
+  "anterioresNacionales": {
     "cerdoEnPie": 6306,
     "canalCaliente": 8688,
     "canalFria": 9126
   },
-  "anterioresNacionales": {
-    "cerdoEnPie": 6376,
-    "canalCaliente": 8873,
-    "canalFria": 9332
-  },
   "regiones": [
     {
       "mercado": "Antioquia",
-      "cerdoEnPie": 5999,
+      "cerdoEnPie": 6017,
       "anteriores": {
-        "cerdoEnPie": 6063,
+        "cerdoEnPie": 5999,
         "canalCaliente": null,
-        "canalFria": 8822
+        "canalFria": 8994
       },
       "canalCaliente": null,
-      "canalFria": 8994
+      "canalFria": 9141
     },
     {
       "mercado": "Eje Cafetero",
-      "cerdoEnPie": null,
+      "cerdoEnPie": 6625,
       "anteriores": {
         "cerdoEnPie": null,
         "canalCaliente": null,
-        "canalFria": 8968
+        "canalFria": 8963
       },
       "canalCaliente": null,
-      "canalFria": 8963
+      "canalFria": 8844
     },
     {
       "mercado": "Valle del Cauca",
-      "cerdoEnPie": 6050,
+      "cerdoEnPie": 6166,
       "anteriores": {
-        "cerdoEnPie": 6297,
-        "canalCaliente": 8776,
-        "canalFria": 9002
+        "cerdoEnPie": 6050,
+        "canalCaliente": 8543,
+        "canalFria": 8644
       },
-      "canalCaliente": 8543,
-      "canalFria": 8644
+      "canalCaliente": 8439,
+      "canalFria": 8925
     },
     {
       "mercado": "Caribe Norte",
-      "cerdoEnPie": 6421,
+      "cerdoEnPie": 6511,
       "anteriores": {
-        "cerdoEnPie": 6550,
-        "canalCaliente": 8892,
-        "canalFria": 9691
+        "cerdoEnPie": 6421,
+        "canalCaliente": 8708,
+        "canalFria": 10063
       },
-      "canalCaliente": 8708,
-      "canalFria": 10063
+      "canalCaliente": 8923,
+      "canalFria": null
     },
     {
       "mercado": "Bogotá",
-      "cerdoEnPie": 6559,
+      "cerdoEnPie": 6666,
       "anteriores": {
-        "cerdoEnPie": 6645,
+        "cerdoEnPie": 6559,
         "canalCaliente": null,
-        "canalFria": 10390
+        "canalFria": 10477
       },
       "canalCaliente": null,
-      "canalFria": 10477
+      "canalFria": 10335
     },
     {
       "mercado": "Tolima - Huila",
-      "cerdoEnPie": 6747,
+      "cerdoEnPie": 6664,
       "anteriores": {
-        "cerdoEnPie": 6730,
+        "cerdoEnPie": 6747,
         "canalCaliente": null,
-        "canalFria": 8911
+        "canalFria": 8720
       },
       "canalCaliente": null,
-      "canalFria": 8720
+      "canalFria": 8760
     }
   ],
   "cobertura": {
-    "cerdoEnPie": 5,
+    "cerdoEnPie": 6,
     "canalCaliente": 2,
-    "canalFria": 6
+    "canalFria": 5
   },
   "variacionesCalculadas": {
     "cerdoEnPie": {
-      "COPkg": -70,
-      "porcentaje": -1.0979
+      "COPkg": 92,
+      "porcentaje": 1.4589
     },
     "canalCaliente": {
-      "COPkg": -185,
-      "porcentaje": -2.085
+      "COPkg": 181,
+      "porcentaje": 2.0833
     },
     "canalFria": {
-      "COPkg": -206,
-      "porcentaje": -2.2075
+      "COPkg": 218,
+      "porcentaje": 2.3888
     }
   },
   "advertencias": [
